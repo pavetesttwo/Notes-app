@@ -1,0 +1,13 @@
+
+> notes-app@0.1.0 dev
+> next dev --turbopack --hostname 0.0.0.0 --port 4173
+
+▲ Next.js 16.4.6 (Turbopack)
+- Local:         http://localhost:4173
+- Network:       http://0.0.0.0:4173
+✓ Ready in 252ms
+✓ Running next.config.ts took 23ms
+
+ GET / 200 in 244ms (next.js: 123ms, application-code: 121ms)
+ GET /api/notes 200 in 117ms (next.js: 62ms, application-code: 55ms)
+[?25h
